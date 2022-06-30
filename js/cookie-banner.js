@@ -1,6 +1,9 @@
 /*
-Cookie Banner by AlexanderWagnerDev.at
+Cookie Banner with JS and CSS by AlexanderWagnerDev.at
+Author: AlexanderWagnerDev.at
+Version: 1.0
 */
+
 var footerCookie = document.querySelector("#awdev-footer-cookie");
 var footerCookieAccept = document.querySelector("#accept");
 
