@@ -3,6 +3,7 @@ Cookie Banner in JS und CSS
 Author: AlexanderWagnerDev.at
 Version: 1.0
 */
+#awdev-footer-cookie,
 #awdev-footer-cookie * {
     box-sizing: border-box;
 }
@@ -13,7 +14,7 @@ Version: 1.0
     position: fixed;
     bottom: 0px;
     left: 0px;
-    width: 97%;
+    width: 100%;
     height: 60px;
     padding-left: 30px;
     padding-right: 30px;
